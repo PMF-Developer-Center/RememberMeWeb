@@ -1,0 +1,13 @@
+{
+  "name": "remembermeweb",
+  "version": "1.0.0",
+  "description": "RememberMeWeb is a sample application demonstrating use of the UserAuthentication security check with 'remember me' functionality.",
+  "dependencies": {
+    "express": "latest",
+    "ibm-mfp-web-sdk": "file:../../../../../Downloads/worklight-web-native-8.0.2022091607",
+    "request": "latest",
+    "requirejs": "latest"
+  },
+  "author": "IBM MobileFirst Platform Foundation",
+  "license": "SEE LICENSE IN README.MD"
+}
